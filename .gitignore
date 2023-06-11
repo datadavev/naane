@@ -103,6 +103,8 @@ celerybeat.pid
 
 # Environments
 .direnv
+.envrc
+.idea
 .env
 .venv
 env/
